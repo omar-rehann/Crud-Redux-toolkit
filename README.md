@@ -111,24 +111,6 @@ npm start
 
 ---
 
-## 🖼️ Screenshots
-
-### Home Page
-
-*Add items from here*
-
-![Home Page](screenshots/home.png)
-
-### All Items Page
-
-*View and delete items*
-
-![Items Page](screenshots/items.png)
-
-> 📌 Screenshots are for demonstration purposes.
-
----
-
 ## 📌 Learning Outcomes
 
 * Practical use of **Redux Toolkit slices & async actions**
