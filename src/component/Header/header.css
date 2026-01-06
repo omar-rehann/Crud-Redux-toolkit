@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color: #111;
+    border-radius: 10px;
+}
+
+.links a,
+.login a {
+    color: #fff;
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.links a:hover,
+.login a:hover {
+    color: #00bcd4;
+}
